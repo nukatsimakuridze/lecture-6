@@ -1,0 +1,168 @@
+header {
+	padding: 21px 0px;
+	background-color: #F1F1F1;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	z-index: 100;
+}
+
+.container {
+	width: 1165px;
+	margin: 0 auto;
+}
+/*.logo {
+	font-size: 48px;
+	color: hotpink;
+	vertical-align: middle;
+	margin-right: 70px;
+}*/
+nav {
+	display: inline-block;
+}
+li {
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 35px;
+}
+nav li a {
+	color: #000;
+	font-family: Roboto;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+.logo {
+	width: 32px;
+	height: 32px;
+	display:inline-block;
+	vertical-align: middle;
+}
+.s-1 {
+	margin-top: 74px;
+	background-color: #F1F1F1;
+}
+h1 {
+	color: #000;
+	font-family: Roboto;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin-bottom: 27px;
+}
+.wrapper {
+	display: inline-block;
+	position: relative;
+	vertical-align: middle;
+}
+.beach {
+	border-radius: 5px 5px 0px 0px;
+	width: 362px;
+	height: 186px;
+	flex-shrink: 0;
+}
+h2 {
+	position: absolute;
+	top: 32px;
+	left: 41px;
+	color: #FFF;
+	font-family: Roboto;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+.card-1{
+	width: 362px;
+	height: 171px;
+	border-radius: 0px 0px 5px 5px;
+	background: #FFF;
+/*	display: inline-block;*/
+	vertical-align: middle;
+margin-top:0px;
+}
+h4{
+	color: #8A8787;
+	font-family: Roboto;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin-top:0px;
+
+}
+.clock{
+	width: 16px;
+	height: 16px;
+	border-radius: 16px;
+	display: inline-block;
+	vertical-align: middle;
+}
+h3 {
+	color: #8A8787;
+	font-family: Roboto;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	display: inline-block;
+	vertical-align: middle;
+}
+.s-2 {
+	background-color: #F1F1F1;;
+}
+.wrapper{
+	display: inline-block;
+	position: relative;
+	vertical-align: middle;
+	background-color:F1F1F1;
+}
+
+.nature {
+	width: 758px;
+	height: 430px;
+	border-radius: 5px;
+	margin-top:115px;
+	margin-bottom:42px;
+	vertical-align: top;
+
+}
+h5 {
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%,-50%);
+color: #FFF;
+font-family: Roboto;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.div2{
+	display: inline-block;
+	width: 758px;
+}
+
+.eco {
+
+    width: 362px;
+height: 212px;
+border-radius: 5px;
+
+.div1 {
+	display: inline-block;
+}
+.f-1 {
+	background-color: #243043;
+}
+.footer {
+	color: #818687;
+font-family: Roboto;
+font-size: 12px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
